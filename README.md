@@ -1,4 +1,4 @@
-
+## My Text Editor
 ```diff
 + Open The Application
 + Home
@@ -14,8 +14,8 @@
     2. You Can Open Texts.
     3. You Can Search Words.
 #### Download
-Download the [latest release](https://github.com/satya00089/TicTacToe/releases/tag/1.0).
+Download the [latest release](https://github.com/satya00089/MyTextEditor/releases/tag/1.0).
 #### Requirements
-Microsoft [.NET Framework 4.5](https://www.microsoft.com/en-US/download/details.aspx?id=53344) or higher.
+NetBeens [NetBeans IDE 8.0.2](http://download.netbeans.org/netbeans/8.0.2/final/) or higher.
 #### Developed By
-[Visual Studio 2015](https://www.visualstudio.com/downloads/) & [.NET Framework 4.5 Developer Pack ](https://www.microsoft.com/en-us/download/details.aspx?id=53321) are required.
+[NeetBeens](http://download.netbeans.org/netbeans/8.0.2/final/) & [JDK 1.8.0 ](http://www.oracle.com/technetwork/java/javase/downloads/index.html) are required.
