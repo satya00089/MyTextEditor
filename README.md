@@ -18,4 +18,4 @@ Download the [latest release](https://github.com/satya00089/MyTextEditor/release
 #### Requirements
 NetBeens [NetBeans IDE 8.0.2](http://download.netbeans.org/netbeans/8.0.2/final/) or higher.
 #### Developed By
-[NeetBeens](http://download.netbeans.org/netbeans/8.0.2/final/) & [JDK 1.8.0 ](http://www.oracle.com/technetwork/java/javase/downloads/index.html) are required.
+[NetBeans](http://download.netbeans.org/netbeans/8.0.2/final/) & [JDK 1.8.0 ](http://www.oracle.com/technetwork/java/javase/downloads/index.html) are required.
